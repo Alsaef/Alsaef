@@ -1,16 +1,32 @@
 <!doctype html>
 <html>
 <head>
- <title></title>
- <link rel="stylesheet" href="style.css">
+    <title></title>
+    <link rel="stylesheet" href="style.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css'>
 </head>
 <body>
-    <p>find your future wife😆</p>
-    <script>alert('তুমার বউ কে হবে? 😆')  </script>
-   <h1 id="html">mamun</h1>
-   <button onclick="document.getElementById('html').innerHTML='jannati'">love❤️</button> 
-      <button onclick="document.getElementById('html').innerHTML='mamun'">relod</button> 
+    <p>
+        find your future wife😆
+    </p>
+    <script></script>
+    <h1 id="html">mamun</h1>
+    <button onclick="document.getElementById('html').innerHTML='jannati'">love❤️</button>
+
+    <button onclick="document.getElementById('html').innerHTML='Mamun'">relod</button><br>
+    <img id='img'src="/storage/emulated/0/DCIM/Facebook/FB_IMG_1667105378489.jpg"> <br>
+    <button class="btn"onclick="document.getElementById('img').src='/storage/emulated/0/Pictures/Messenger/received_443063237793118.jpeg'"> love❤️</button>
+    <button class="btn" onclick="document.getElementById('img').src='/storage/emulated/0/DCIM/Facebook/FB_IMG_1667105378489.jpg'">relod</button>
+    <div>
+        <a class="black" href="https://www.facebook.com/profile.php?id=100017012255471" class="icon facebook">
+            <span><i class="fab fa-facebook-f"></i></span>
+        </a>
+    </div>
+    <div>
+    <video src='/storage/emulated/0/Download/313090192_161031813237358_3531359780344534786_n.mp4'width="320" height="240" controls> </video>
+   </div>
+  
 </body>
 </html>
