@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alsaef&label=Profile%20views&color=0e75b6&style=flat" alt="alsaef" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alsaef" alt="alsaef" /></a> </p>
+
 - 🔭 I'm currently Studying Computer Science [My Portfolio](https://developer-ratul.netlify.app/)
 
 - 🌱 What I learned for frontend development **React.JS,NEXT.JS,Redux**
