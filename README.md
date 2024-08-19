@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently Studying Computer Science [My Portfolio](https://developer-ratul.netlify.app/)
 
-- 🌱 What I learned for frontend development **React.JS,NEXT.JS,Redux**
+- 🌱 What I learned for frontend development **React.JS,NEXT.JS,Redux,Node.JS**
 
 - 👨‍💻 All of my projects are available at [https://developer-ratul.netlify.app/](https://developer-ratul.netlify.app/)
 
