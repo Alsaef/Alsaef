@@ -28,17 +28,17 @@
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,mongodb,py,typescript,postman,npm,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,mongodb,py,typescript,figma&theme=dark" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,firebase,vite,tailwind,vscode,netlify" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,firebase,vite,tailwind,vscode,netlify,postman" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,redux,vercel,yarn" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,redux,vercel,yarn,npm" />
   </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alsaef&show_icons=true&locale=en&layout=compact&langs_count=10" alt="alsaef" /></p>
