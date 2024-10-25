@@ -38,7 +38,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,redux,vercel,yarn,npm" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,redux,vercel,yarn,npm,github" />
   </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alsaef&show_icons=true&locale=en&layout=compact&langs_count=10" alt="alsaef" /></p>
