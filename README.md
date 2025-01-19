@@ -28,12 +28,12 @@
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,mongodb,py,typescript,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,mongodb,postgres,py,typescript,figma&theme=dark" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,firebase,vite,tailwind,vscode,netlify,postman,git" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,firebase,vite,tailwind,vscode,netlify,postman,git,firebase" />
   </a>
 </p>
 <p align="center">
