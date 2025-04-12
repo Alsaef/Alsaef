@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alsaef" alt="alsaef" /></a> </p>
 
-- 🔭 I'm currently Studying Computer Science [My Portfolio](https://developer-ratul.netlify.app/)
+- 🔭 I'm currently Studying Computer Science [My Portfolio](https://developer-ratul.vercel.app/)
 
 - 🌱 What I learned for frontend development **React.JS,NEXT.JS,Redux,Node.JS**
 
-- 👨‍💻 All of my projects are available at [https://developer-ratul.netlify.app/](https://developer-ratul.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://developer-ratul.vercel.app/](https://developer-ratul.vercel.app/)
 
 - 📝 I regularly write articles on [https://asr-code-blog.netlify.app/](https://asr-code-blog.netlify.app/)
 
