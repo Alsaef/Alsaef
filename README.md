@@ -12,7 +12,9 @@
 - 👨‍💻 All of my projects are available at [https://developer-ratul.vercel.app/](https://developer-ratul.vercel.app/)
 
 - 📝 I regularly write articles on [https://asr-code-blog.netlify.app/](https://asr-code-blog.netlify.app/)
-
+  
+- [![npm version](https://img.shields.io/npm/v/react-document-title-hook.svg)](https://www.npmjs.com/package/react-document-title-hook)
+  
 - 💬 Ask me about **React.JS,NEXT.JS,Redux**
 
 - 📫 How to reach me **saef.ratul@gmail.com**
