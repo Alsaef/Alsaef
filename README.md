@@ -13,7 +13,7 @@
 
 - 🌱 What I learned for frontend development **React.JS,NEXT.JS,Redux,Node.JS**
 
-- 👨‍💻 All of my projects are available at [https://developer-ratul.vercel.app/](https://developer-ratul.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://developer-ratul.netlify.app/](https://developer-ratul.netlify.app/)
 
 - 📝 I regularly write articles on [https://asr-code-blog.netlify.app/](https://asr-code-blog.netlify.app/)
   
