@@ -39,12 +39,12 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,firebase,vite,tailwind,vscode,netlify,postman,git" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,firebase,vite,tailwind,vscode,netlify,postman,git,kali" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,redux,vercel,yarn,npm,github" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,redux,vercel,yarn,npm,github,linux" />
   </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alsaef&show_icons=true&locale=en&layout=compact&langs_count=10" alt="alsaef" /></p>
