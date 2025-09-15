@@ -51,7 +51,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alsaef&show_icons=true&locale=en" alt="alsaef" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alsaef&" alt="alsaef" /></p>
+<p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsaef&theme=github_dark" alt="Current overview" /></p>
 
 ## Skill
 <p align="center">
