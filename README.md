@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://developer-ratul.netlify.app/](https://developer-ratul.netlify.app/)
 
-- 📝 I regularly write articles on [https://asr-code-blog.netlify.app/](https://asr-code-blog.netlify.app/)
+- 📝 I regularly write articles on https://code-blog-2-0.vercel.app/
   
 - [![npm version](https://img.shields.io/npm/v/react-document-title-hook.svg)](https://www.npmjs.com/package/react-document-title-hook)
   
